@@ -13,5 +13,13 @@ Sở thích:
 Kỹ năng:
 1. Lập trình Python.  
 2. Sử dụng Git và GitHub.  
-3. Giao tiếp và thuyết trình.  
+3. Giao tiếp và thuyết trình.
+  
+Kế hoạch học tập:
+1. Hoàn thành các môn học đúng hạn và đạt kết quả tốt.  
+2. Dành ít nhất 2 giờ mỗi ngày để học lập trình.  
+3. Tham gia các khóa học online để mở rộng kiến thức.  
+4. Thực hành Git/GitHub thường xuyên.  
+5. Tham gia dự án nhóm để rèn kỹ năng teamwork.  
+
  
