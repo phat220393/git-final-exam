@@ -1,0 +1,17 @@
+Giới thiệu cá nhân
+Tôi tên là Nguyễn Tấn Phát 
+Sinh viên năm 4 ngành Công nghệ Thông tin.  
+Tôi yêu thích việc học hỏi kiến thức mới về công nghệ.  
+Tôi sống tại Cần Thơ.  
+Tôi thích làm việc theo nhóm và chia sẻ kiến thức với bạn bè.  
+
+Sở thích:
+1. Đọc sách công nghệ.  
+2. Chơi bóng đá.  
+3. Nghe nhạc.  
+
+Kỹ năng:
+1. Lập trình Python.  
+2. Sử dụng Git và GitHub.  
+3. Giao tiếp và thuyết trình.  
+ 
