@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống quản lý ghi chú học tập.  
+- Cho phép người dùng tạo và lưu ghi chú mỗi ngày.  
+- Hỗ trợ tìm kiếm nhanh ghi chú theo từ khóa.  
+- Có thể xuất ghi chú ra file Markdown hoặc PDF.  
+- Đồng bộ dữ liệu giữa nhiều thiết bị.  
